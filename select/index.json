@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "うらみつらみきわみ (Live)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-10T09:30:20.477260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うらみつらみきわみ",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/01_うらみつらみきわみ_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うらみつらみきわみ",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_うらみつらみきわみ_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うらみつらみきわみ",
+      "artist": "OfficialHigeDandism",
+      "has_synced": true,
+      "path": "select/03_うらみつらみきわみ_OfficialHigeDandism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うらみつらみきわみ",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_うらみつらみきわみ_Official髭男dism.txt"
+    }
+  ]
+}
